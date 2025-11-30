@@ -1,10 +1,10 @@
-# Sms
+
 <!doctype html>
 <html lang="bn">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>SMS API Sender тАФ Hacker Theme</title>
+  <title>SMS API Sender тАMIM Hacker Theme</title>
 
   <style>
     body{
@@ -84,7 +84,7 @@
 
 <div class="card">
 
-  <h3>тШая╕П SMS Bomber counter тШая╕П</h3>
+  <h3></h3> SMS Bomber counter tamimП</h3>
 
   <label>Phone Number</label>
   <input id="phone" placeholder="017xxxxxxxx" />
